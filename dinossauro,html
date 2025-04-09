@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Saga Jurassic Park</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <img src="logo-jurassic.png" alt="Jurassic Park Logo" class="logo">
+    <button class="filmes">
+      <h1>FILMES | PRÊMIOS</h1>
+    </button>
+  </header>
+
+  <section class="title-banner">
+    <h2>FILMES DA SAGA JURASSIC PARK</h2>
+  </section>
+
+  <main>
+    <section class="movie">
+      <img src="jurassic1.jpg" alt="Jurassic Park" class="poster">
+      <div class="description">
+        <h3>JURASSIC PARK: O PARQUE DOS DINOSSAUROS</h3>
+        <p>
+          Jurassic Park é um filme estadunidense de ficção científica e aventura dirigido por Steven Spielberg...
+        </p>
+      </div>
+    </section>
+
+    <section class="movie dark">
+      <img src="jurassic2.jpg" alt="O Mundo Perdido" class="poster">
+      <div class="description">
+        <h3>JURASSIC PARK: O MUNDO PERDIDO</h3>
+        <p>
+          The Lost World: Jurassic Park é um filme estadunidense de 1997 de ficção científica...
+        </p>
+      </div>
+    </section>
+
+    <section class="movie">
+      <img src="jurassic3.jpg" alt="Jurassic Park III" class="poster">
+      <div class="description">
+        <h3>JURASSIC PARK III</h3>
+        <p>
+          Jurassic Park III é um filme lançado em 2001, sendo a continuação de The Lost World...
+        </p>
+      </div>
+    </section>
+
+    <section class="movie dark">
+      <img src="jurassicworld.jpg" alt="Jurassic World" class="poster">
+      <div class="description">
+        <h3>JURASSIC WORLD</h3>
+        <p>
+          Jurassic World é o quarto filme da franquia Jurassic Park, lançado com direção de Colin Trevorrow...
+        </p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
